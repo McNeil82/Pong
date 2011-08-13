@@ -1,0 +1,8 @@
+F:\Projects\Pong\Pong\bin\Release\Pong.exe
+F:\Projects\Pong\Pong\bin\Release\Pong.pdb
+F:\Projects\Pong\Pong\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\Pong\Pong\obj\Release\Pong.Window.resources
+F:\Projects\Pong\Pong\obj\Release\Pong.Properties.Resources.resources
+F:\Projects\Pong\Pong\obj\Release\Pong.csproj.GenerateResource.Cache
+F:\Projects\Pong\Pong\obj\Release\Pong.exe
+F:\Projects\Pong\Pong\obj\Release\Pong.pdb

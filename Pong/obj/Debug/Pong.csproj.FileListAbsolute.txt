@@ -1,8 +1,0 @@
-F:\Projects\Pong\Pong\bin\Debug\Pong.exe
-F:\Projects\Pong\Pong\bin\Debug\Pong.pdb
-F:\Projects\Pong\Pong\obj\Debug\ResolveAssemblyReference.cache
-F:\Projects\Pong\Pong\obj\Debug\Pong.Window.resources
-F:\Projects\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
-F:\Projects\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
-F:\Projects\Pong\Pong\obj\Debug\Pong.exe
-F:\Projects\Pong\Pong\obj\Debug\Pong.pdb

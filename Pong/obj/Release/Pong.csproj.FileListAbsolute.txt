@@ -6,3 +6,5 @@ F:\Projects\Pong\Pong\obj\Release\Pong.Properties.Resources.resources
 F:\Projects\Pong\Pong\obj\Release\Pong.csproj.GenerateResource.Cache
 F:\Projects\Pong\Pong\obj\Release\Pong.exe
 F:\Projects\Pong\Pong\obj\Release\Pong.pdb
+L:\Projects\Pong\Pong\obj\Release\Pong.exe
+L:\Projects\Pong\Pong\obj\Release\Pong.pdb
